@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio6</string>
+    <string name="txtGoodBye">ADIOS!</string>
+    <string name="txtHello">HOLA!</string>
+</resources>
